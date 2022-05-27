@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juraj janekovic
 - 👀 I’m interested in python, java
-- 🌱 I’m currently learning python, java, C
+- 🌱 I’m currently learning python, java, C, html/css/js
 - 📫 How to reach me: juraj.janekovic@gmail.com
 
 <!---
