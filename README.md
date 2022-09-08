@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juraj janekovic
-- 👀 I’m interested in python, java
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning python, java, C, html/css/js, SQL
 - 📫 How to reach me: juraj.janekovic@gmail.com
 
