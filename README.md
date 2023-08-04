@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juraj janekovic
 - 👀 I’m interested in Computer Science
 - 🌱 I’m proficient in python, java, C, html/css/js, SQL, R
-- 📫 How to reach me: juraj.janekovic@gmail.com
+- 📫 How to reach me: inbox 
 
 <!---
 jurajjan/jurajjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
